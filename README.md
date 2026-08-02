@@ -1,0 +1,2 @@
+# hamustordaiboso_license
+ハムスター大暴走の使用アセットライセンス
