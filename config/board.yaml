@@ -4,3 +4,7 @@ columns:
   genre: doing
   key: none
   title: あ
+- emoji: 📋
+  genre: doing
+  key: 状態:未整理
+  title: メモ
