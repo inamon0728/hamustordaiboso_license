@@ -1,2 +1,6 @@
 boards: 3
-columns: []
+columns:
+- emoji: 📋
+  genre: doing
+  key: none
+  title: あ
